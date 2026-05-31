@@ -6,13 +6,13 @@ These terms are a plain-language first pass for Everglades Topo.
 
 ## Using Everglades Topo
 
-Everglades Topo is a map and reference tool for viewing elevation and topography overlays for South Florida. You may use it for lawful personal or professional field planning, scouting, navigation support, education, and reference.
+Everglades Topo is a map and reference tool for viewing elevation and topography overlays for South Florida. It is made for personal, recreational, and educational use — planning hikes and backcountry trips, paddling and airboat outings, wildlife watching, photography, and simply getting to know the landscape. Anyone curious about South Florida's terrain is welcome to use it.
 
 ## Not a safety or emergency navigation system
 
-Everglades Topo is not an emergency navigation system, rescue system, survey instrument, or substitute for official maps, posted signs, land-manager rules, weather alerts, or professional judgment.
+Everglades Topo is not an emergency navigation system, rescue system, survey instrument, or substitute for official maps, posted signs, land-manager rules, weather alerts, or your own good judgment.
 
-Do not rely on the app as your only navigation source. Field conditions in wetlands, roads, levees, canals, and public lands can change quickly. Carry appropriate backup navigation, water, safety gear, and communications.
+Do not rely on the app as your only navigation source. Conditions outdoors — in wetlands, marshes, on trails, levees, canals, and public lands — can change quickly. Carry appropriate backup navigation, water, safety gear, and communications.
 
 ## Elevation and map accuracy
 
@@ -24,7 +24,7 @@ Satellite imagery, base maps, roads, and location services may come from platfor
 
 If you allow location access, the app can show your position and select nearby map layers. You are responsible for choosing whether location sharing with the device operating system and map provider is appropriate for your situation. See the privacy policy for more details.
 
-## Field safety
+## Staying safe outdoors
 
 Use the app only when it is safe to do so. Do not interact with the app while driving, boating, operating equipment, crossing roads, walking near traffic, or moving through hazardous terrain unless you can do so safely and legally.
 

@@ -2,7 +2,7 @@
 
 Last updated: 2026-05-31
 
-Everglades Topo is a focused field map for South Florida elevation, built from detailed public elevation data. The app does not require an account and does not include ads, analytics SDKs, tracking SDKs, or social features.
+Everglades Topo is a map for exploring South Florida's elevation and terrain, built from detailed public elevation data. The app does not require an account and does not include ads, analytics SDKs, tracking SDKs, or social features.
 
 ## What Everglades Topo collects
 
