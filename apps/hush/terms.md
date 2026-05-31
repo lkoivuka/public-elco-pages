@@ -34,4 +34,4 @@ To the maximum extent allowed by law, Hush and its developers are not liable for
 
 ## Contact
 
-For support or questions, contact: elco.apps.team+app.support@gmail.com
+For support or questions, contact: elco.apps.team+hush.support@gmail.com

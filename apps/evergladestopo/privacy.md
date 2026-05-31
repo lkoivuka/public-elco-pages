@@ -46,4 +46,4 @@ If this policy changes, the updated version will be posted with a new date.
 
 ## Contact
 
-For privacy questions or support, contact: elco.apps.team+app.support@gmail.com
+For privacy questions or support, contact: elco.apps.team+everglades.support@gmail.com

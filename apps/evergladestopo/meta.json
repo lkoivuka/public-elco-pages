@@ -1,5 +1,6 @@
 {
   "name": "Everglades Topo",
   "tagline": "Explore South Florida's terrain \u2014 see subtle foot-level elevation on satellite imagery, for hikes, paddles, and airboat trips.",
-  "icon": "evergladestopo-icon.png"
+  "icon": "evergladestopo-icon.png",
+  "support_email": "elco.apps.team+everglades.support@gmail.com"
 }

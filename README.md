@@ -39,4 +39,12 @@ Do **not** add an app here until its owner has explicitly approved publishing.
 
 ## Support contact
 
-All apps route support to `elco.apps.team+app.support@gmail.com`.
+Each app has its **own** support alias (Gmail plus-addressing → one inbox,
+filterable per app), set in `apps/<slug>/meta.json` as `support_email`:
+
+| App | Support email |
+|-----|---------------|
+| Everglades Topo | `elco.apps.team+everglades.support@gmail.com` |
+| Hush | `elco.apps.team+hush.support@gmail.com` |
+
+When adding an app, give it a new `+<app>.support@gmail.com` alias.

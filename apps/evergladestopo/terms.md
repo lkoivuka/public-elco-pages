@@ -42,4 +42,4 @@ To the maximum extent allowed by law, Everglades Topo and its developers are not
 
 ## Contact
 
-For support or questions, contact: elco.apps.team+app.support@gmail.com
+For support or questions, contact: elco.apps.team+everglades.support@gmail.com

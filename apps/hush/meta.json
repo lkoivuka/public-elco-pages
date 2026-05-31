@@ -1,5 +1,6 @@
 {
   "name": "Hush",
   "tagline": "Local white-noise & ambient sounds for sleep and focus \u2014 works fully offline, no account.",
-  "icon": "hush-icon.png"
+  "icon": "hush-icon.png",
+  "support_email": "elco.apps.team+hush.support@gmail.com"
 }
